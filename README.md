@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FToads
-- 👀 I’m interested in automation
-- 🌱 I’m currently learning python, html, and how to automate tasks
-- 💞️ I’m looking to collaborate on automation, information, and data analytics projects
+- 👋 Hi, I’m Franklin! @FToads
+- 👀 I’m interested in automation.
+- 🌱 I’m currently learning python, html, and how to automate tasks.
+- 💞️ I’m looking to collaborate on automation, information, and data analytics projects.
 - 📫 How to reach me: Send me an email!
 
 <!---
